@@ -1,2 +1,2 @@
-Creating an new branch is quick and simple.
-Can i switch branch without commit?
+Creating a new branch is quick and simple.
+merge with no-ff
