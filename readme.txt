@@ -3,3 +3,4 @@ merge with no-ff
 change file in dev branch and compare file in working zone.
 coding: utf-8
 usr/bin/env
+push and pull
